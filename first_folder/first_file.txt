@@ -1,0 +1,3 @@
+I just created a new folder called "first_folder".
+I just created a text file called "first_file.txt".
+You could also create a file with .py or .R or .md
